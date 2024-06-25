@@ -1,0 +1,17 @@
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\bin\Debug\netstandard2.0\FORM TO CV FINAL.deps.json
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\bin\Debug\netstandard2.0\FORM TO CV FINAL.dll
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\bin\Debug\netstandard2.0\ref\FORM TO CV FINAL.dll
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\bin\Debug\netstandard2.0\FORM TO CV FINAL.pdb
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\FORM TO CV FINAL.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\FORM TO CV FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\FORM TO CV FINAL.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\FORM TO CV FINAL.AssemblyInfo.cs
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\FORM TO CV FINAL.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\FORM TO CV FINAL.dll
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\refint\FORM TO CV FINAL.dll
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\FORM TO CV FINAL.pdb
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\diego\source\repos\FORM TO CV FINAL\FORM TO CV FINAL\FORM TO CV FINAL\obj\Debug\netstandard2.0\Page1.xaml.g.cs

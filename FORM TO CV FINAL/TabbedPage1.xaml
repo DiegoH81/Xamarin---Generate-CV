@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FORM_TO_CV_FINAL.TabbedPage1">
+  <!--Pages can be added as references or inline-->
+
+    <ContentPage Title="Página 1">
+        <StackLayout Margin="0,12,0,12">
+            <Label Text="Fecha de Nacimiento" />
+            <!-- Otros controles aquí -->
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>
